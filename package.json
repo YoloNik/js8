@@ -8,6 +8,10 @@
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /js8/"
   },
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoloNik/js8.git"
+  },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
